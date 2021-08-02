@@ -33,7 +33,7 @@ class BouncyBall{
 			stroke("black");
 			fill("darkblue");
 			
-			circle(0,0,this.r, this.r);
+			ellipse(0,0,this.r, this.r);
 			pop()
 	}
 
